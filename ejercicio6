@@ -8,5 +8,5 @@ function swapNamedPile(piles) {
 }
 
 console.log(swapNamedPile({ chosen, disregarded }));
-// => { chosen: [7, 10], disregarded: [5, 4] }
+
 
